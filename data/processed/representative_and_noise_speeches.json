@@ -1,0 +1,235 @@
+{
+  "best_scenario": "08_pca50_umap10",
+  "clusters": {
+    "Cluster 0": [
+      {
+        "doc_id": "Sarney_09-22-1988_1988",
+        "president": "Sarney",
+        "date": "1988-09-22",
+        "word_count": 373,
+        "flesch_pt": 28.8,
+        "avg_sent_len": 24.9,
+        "orality_rate": 0.0,
+        "formal_connector_rate": 8.0,
+        "excerpt": "assinei atos históricos que deram uma base para a reestruturação do setor nuclear brasileiro, de há muito reclamado pela nossa sociedade. O novo modelo distingue-se pela unidade e pela participação e, sobretudo, pela sua transparência. O Brasil defende o direito de amplo acesso às aplicações da tecnologia nuclear em benefício do bem-estar de sua população. E é necessário somar "
+      },
+      {
+        "doc_id": "Sarney_11-25-1987_1987",
+        "president": "Sarney",
+        "date": "1987-11-25",
+        "word_count": 510,
+        "flesch_pt": 36.8,
+        "avg_sent_len": 21.2,
+        "orality_rate": 5.9,
+        "formal_connector_rate": 3.9,
+        "excerpt": "< o esforço que o Governo faz no setor social, o setor de saúde pública tem um lugar de grande importância. Saúde é vida. Com a expansão demográfica de nosso País, aumentam a cada dia nossas necessidades de assistência no setor sanitário. E é nosso dever e é nosso trabalho procurar atendê-las. Hoje nós estamos dando um passo significativo no setor de saúde no Brasil. Cria-se a "
+      }
+    ],
+    "Cluster 1": [
+      {
+        "doc_id": "Temer_03-26-2018 (3)_2018",
+        "president": "Temer",
+        "date": "2018-03-26",
+        "word_count": 993,
+        "flesch_pt": 50.0,
+        "avg_sent_len": 24.2,
+        "orality_rate": 27.2,
+        "formal_connector_rate": 5.0,
+        "excerpt": "Olhe, eu quero em primeiro lugar, em face de ter havido há tempos atrás, um regime especial para o setor automotivo no Nordeste, eu quero anunciar solenemente que nós vamos providenciar a prorrogação por mais cinco anos do setor automotivo. Bom, eu acho que não deveria dizer mais nada, porque ganhar mais aplausos do que nós ganhamos agora seria impossível. Mas eu quero de qualq"
+      },
+      {
+        "doc_id": "Temer_02-06-2017_2017",
+        "president": "Temer",
+        "date": "2017-02-06",
+        "word_count": 1445,
+        "flesch_pt": 51.7,
+        "avg_sent_len": 22.6,
+        "orality_rate": 10.4,
+        "formal_connector_rate": 2.8,
+        "excerpt": "Eu quero cumprimentar o senador Eunício Oliveira, presidente do Senado Federal, O deputado Rodrigo Maia, presidente da Câmara dos Deputados, Os ministros de Estado: Eliseu Padilha, Alexandre de Moraes, Henrique Meirelles, Maurício Quintella, Ronaldo Nogueira, Osmar Terra, Fernando Coelho Filho, Dyogo Oliveira, Bruno Araújo, Torquato Jardim, Antônio Imbassahy, Grace Mendonça. O "
+      }
+    ],
+    "Cluster 2": [
+      {
+        "doc_id": "FHC_03-18-1997 (2)_1997",
+        "president": "FHC",
+        "date": "1997-03-18",
+        "word_count": 1086,
+        "flesch_pt": 43.8,
+        "avg_sent_len": 27.1,
+        "orality_rate": 12.9,
+        "formal_connector_rate": 0.9,
+        "excerpt": "Senhor Ministro das Minas e Energia, Doutor Raimundo Brito; Senhor Governador Vítor Buaiz, do Espírito Santo; Senhor Senador Élcio Alvares, Líder do Governo; Senhor Líder do PSDB na Câmara, Aedo Neves; Senhores Senadores aqui presentes, meus amigos; Senador José Inácio; Senador Gelson Camata; Senhores e Senhoras Deputados, representantes do Espírito Santo; Senhoras e Senhores; "
+      },
+      {
+        "doc_id": "Sarney_04-06-1989 (2)_1989",
+        "president": "Sarney",
+        "date": "1989-04-06",
+        "word_count": 1530,
+        "flesch_pt": 51.5,
+        "avg_sent_len": 25.1,
+        "orality_rate": 9.2,
+        "formal_connector_rate": 0.7,
+        "excerpt": "Em Santo André, São Paulo, o Presidente da CUT, Jair Meneguelli, afirma que já aceita negociar uma reposição de menos de 30%, mas que seja acima de 20%. brasileiras e brasileiros do Maranhão e de Imperatriz, É com uma grande emoção que estou vivendo esta viagem: a emoção de quem participa de um momento histórico, não somente do Centro-Oeste e do Maranhão, mas do Brasil inteiro."
+      }
+    ],
+    "Cluster 3": [
+      {
+        "doc_id": "Bolsonaro_02-15-2020_2020",
+        "president": "Bolsonaro",
+        "date": "2020-02-15",
+        "word_count": 363,
+        "flesch_pt": 58.1,
+        "avg_sent_len": 24.2,
+        "orality_rate": 19.3,
+        "formal_connector_rate": 0.0,
+        "excerpt": "Boa tarde, paz de Cristo, primeiro eu agradeço a Deus pela minha vida, agradeço a Deus pela minha vida e também a Ele que pelas mãos de muitos de vocês me colocaram para conduzir, como chefe do Executivo, os destinos do nosso Brasil. O Brasil é laico mas o presidente é cristão. O Brasil está mudando mais do que os números da economia, está mudando porque tem um Governo que resp"
+      },
+      {
+        "doc_id": "Lula_04-09-2007_2007",
+        "president": "Lula",
+        "date": "2007-04-09",
+        "word_count": 3356,
+        "flesch_pt": 59.6,
+        "avg_sent_len": 25.2,
+        "orality_rate": 22.9,
+        "formal_connector_rate": 1.5,
+        "excerpt": "O problema de ter um ministro maior do que o presidente é ter que ficar manuseando o microfone aqui. Meu caro Miguel Jorge, ministro do Desenvolvimento, Indústria e Comércio Exterior, Meu caro senador Eduardo Suplicy, Meu caro senador Romeu Tuma, Meu caro José Rafael Guagliardi, presidente da Alcântara Machado Feiras de Negócios, Senhor Evaristo Nascimento, diretor da Automec, "
+      }
+    ],
+    "Cluster 4": [
+      {
+        "doc_id": "Bolsonaro_01-29-2020_2020",
+        "president": "Bolsonaro",
+        "date": "2020-01-29",
+        "word_count": 835,
+        "flesch_pt": 66.1,
+        "avg_sent_len": 20.9,
+        "orality_rate": 21.6,
+        "formal_connector_rate": 0.0,
+        "excerpt": "Vendo vocês aqui, sertanejos, eu rememoro os idos de 1960, onde, depois de pegar uns camarões nos capinzais dos rios, eu ia para as barrancas do Rio Ribeira de Iguape com a minha latinha de leite Ninho, uma linha de mão 050 enrolada nela, na ponta, um chumbo e anzol, e jogava no rio. Raro era o dia que eu não trazia três, quatro robalos para casa. Mas o mais importante, eu leva"
+      },
+      {
+        "doc_id": "Bolsonaro_11-06-2020_2020",
+        "president": "Bolsonaro",
+        "date": "2020-11-06",
+        "word_count": 1015,
+        "flesch_pt": 65.7,
+        "avg_sent_len": 16.9,
+        "orality_rate": 22.7,
+        "formal_connector_rate": 0.0,
+        "excerpt": "Amigos do Paraná, boa tarde. É uma grande satisfação estar aqui. Realmente, cada passagem nossa por esse estado, nós apresentamos alguma coisa. Em especial, pelo excelente relacionamento que temos com seu governador, Ratinho Junior. Prezados parlamentares, em nome do Jorginho Mello Santa Catarina, saúdo a todos. Prezados ministros, Profissionais, empreendedores. É uma grande sa"
+      }
+    ],
+    "Cluster 5": [
+      {
+        "doc_id": "Bolsonaro_04-07-2021_2021",
+        "president": "Bolsonaro",
+        "date": "2021-04-07",
+        "word_count": 384,
+        "flesch_pt": 38.7,
+        "avg_sent_len": 34.9,
+        "orality_rate": 23.4,
+        "formal_connector_rate": 0.0,
+        "excerpt": "Boa tarde a todos, é uma satisfação voltar aqui ao nosso estado do Paraná para fazer mais uma entrega. Complementando apenas quem me antecedeu, queria cumprimentar os trabalhadores, aqueles que pegaram no pesado aqui e em nome de vocês apelar a todos os governadores e prefeitos do Brasil, todo homem que trabalha, toda atividade que ele exerce para levar o pão para casa é uma at"
+      },
+      {
+        "doc_id": "Bolsonaro_04-23-2021 (2)_2021",
+        "president": "Bolsonaro",
+        "date": "2021-04-23",
+        "word_count": 441,
+        "flesch_pt": 38.1,
+        "avg_sent_len": 33.9,
+        "orality_rate": 20.4,
+        "formal_connector_rate": 0.0,
+        "excerpt": "Bom dia a todos, é uma satisfação estar aqui no coração do Brasil, logicamente esse título de iniciativa do deputado Péricles é muito bem-vindo, estou muito orgulhoso do mesmo até pelo momento que atravessa o Brasil e pelo momento que passou o nosso estado, numa situação que ninguém esperava que fosse acontecer. Então esse título é um reconhecimento da grande maioria da Assembl"
+      }
+    ]
+  },
+  "noise": [
+    {
+      "doc_id": "Bolsonaro_09-29-2021_2021",
+      "president": "Bolsonaro",
+      "date": "2021-09-29",
+      "word_count": 2013,
+      "k15_dist": 1.0175,
+      "flesch_pt": 61.6,
+      "avg_sent_len": 23.7,
+      "mtld": 85.4,
+      "question_rate": 2.5,
+      "orality_rate": 29.8,
+      "formal_connector_rate": 0.0,
+      "excerpt": "É uma satisfação estar aqui novamente em Roraima, tive várias vezes aqui bem antes até da pré campanha eleitoral, mas sei que todo mundo tá curioso o que que vai acontecer hoje a tarde. Vamos lá, vamos combinar uma coisa depois que o Hiran (Gonçalves) falou aqui tá mantido, se Deus quiser às 16 horas vamos nos reunir, agora vamos adiantar a boa notícia? Vou chamar o ministro Be"
+    },
+    {
+      "doc_id": "Sarney_06-14-1989_1989",
+      "president": "Sarney",
+      "date": "1989-06-14",
+      "word_count": 1945,
+      "k15_dist": 0.9259,
+      "flesch_pt": 58.5,
+      "avg_sent_len": 17.5,
+      "mtld": 83.6,
+      "question_rate": 3.1,
+      "orality_rate": 10.3,
+      "formal_connector_rate": 0.5,
+      "excerpt": "Um balanço da administração do governo atual será feito Estado por Estado . Sergipe é o primeiro Estado focalizado pelo Presidente da República. Apesar das dificuldades econômicas universais, são assinaladas, pelo Chefe de Estado, numerosas obras no Estado em referência. brasileiras e brasileiros de Sergipe, boa noite, Quero comunicar a todos que amanhã estarei em Xingo, nesta "
+    },
+    {
+      "doc_id": "FHC_08-01-2001_2001",
+      "president": "FHC",
+      "date": "2001-08-01",
+      "word_count": 369,
+      "k15_dist": 0.7773,
+      "flesch_pt": 56.3,
+      "avg_sent_len": 24.6,
+      "mtld": 74.6,
+      "question_rate": 0.0,
+      "orality_rate": 21.7,
+      "formal_connector_rate": 2.7,
+      "excerpt": "18 Palavras do ao término do encontro com o Primeiro-Ministro Tony Blair, do Reino Unido, e com o Presidente Fernando de Ia Rua, da Argentina FOZ DO IGUAÇU, PR, is DE AGOSTO DE 2001 É um momento muito especial. Muito especial para nós, brasileiros, porque o Primeiro-Ministro inglês pôde verificar, aqui, boa parte do Brasil. Esteve em São Paiúo, visitou fábricas. Esteve em Brasí"
+    },
+    {
+      "doc_id": "Lula_07-12-2006 (2)_2006",
+      "president": "Lula",
+      "date": "2006-07-12",
+      "word_count": 2534,
+      "k15_dist": 0.7499,
+      "flesch_pt": 45.2,
+      "avg_sent_len": 30.2,
+      "mtld": 58.5,
+      "question_rate": 2.8,
+      "orality_rate": 18.5,
+      "formal_connector_rate": 1.2,
+      "excerpt": "Senhores Presidentes, Senhora Primeira-ministra, Senhor Vice-presidente, Governador da Bahia, Prefeito de Salvador, Ministros do meu governo, aqui presentes, Secretários de Estado, Intelectuais, Senhoras e senhores participantes da II Conferência de Intelectuais da África e da Diáspora, Eu não poderia começar as minhas palavras sem agradecer a presença de todos vocês aqui, sobr"
+    },
+    {
+      "doc_id": "Dilma_08-07-2014_2014",
+      "president": "Dilma",
+      "date": "2014-08-07",
+      "word_count": 2404,
+      "k15_dist": 0.4579,
+      "flesch_pt": 47.3,
+      "avg_sent_len": 20.2,
+      "mtld": 83.9,
+      "question_rate": 1.2,
+      "orality_rate": 18.7,
+      "formal_connector_rate": 2.9,
+      "excerpt": "Bom dia a todos. Fica claro, portanto, por todos os discursos, que nós sancionamos o projeto com a incorporação de todas as categorias ao Simples. Então, a curiosidade que poderia haver, o próprio ato demonstrou que tanto os advogados como os corretores de imóveis e de seguros, bem como as fisioterapeutas e os fisioterapeutas estão abarcados pela lei, não havendo, portanto, vet"
+    },
+    {
+      "doc_id": "Bolsonaro_10-21-2021 (2)_2021",
+      "president": "Bolsonaro",
+      "date": "2021-10-21",
+      "word_count": 1697,
+      "k15_dist": 1.0156,
+      "flesch_pt": 60.4,
+      "avg_sent_len": 26.1,
+      "mtld": 76.3,
+      "question_rate": 1.2,
+      "orality_rate": 19.4,
+      "formal_connector_rate": 0.0,
+      "excerpt": "Boa tarde meu Pernambuco, Boa tarde meu Brasil. É uma satisfação muito grande estar no meio de vocês. Têm certas coisas que vocês só ficaram sabendo porque eu cheguei à Presidência, dada a nossa abertura, simplicidade e compromisso com a verdade. Eu confesso que têm certas coisas que eu nem sabia que existia, eu confesso que não sabia que o Ministério do Turismo fazia obras, co"
+    }
+  ]
+}
